@@ -1,0 +1,9 @@
+w
+7,5,6,6
+b,king,3,3
+w,bishop,7,5
+w,queen,4,5
+w,rook,6,2
+w,rook,2,7
+w,knight,2,4
+w,king,7,7

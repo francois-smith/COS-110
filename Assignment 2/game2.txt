@@ -1,0 +1,9 @@
+b
+7,0,2,0
+b,queen,7,0
+w,king,2,5
+w,pawn,0,0
+b,king,7,7
+b,rook,1,3
+b,rook,3,1
+b,knight,6,6
